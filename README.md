@@ -1,5 +1,5 @@
 # Sublime for designers
-Useful Sublime Text packages for web designers
+Useful Sublime Text packages for web designers.
 
 ## About Sublime Text
 As they say in the web site Sublime Text is a sophisticated text editor for code, markup and prose.
@@ -33,3 +33,9 @@ http://emmet.io/
 Enhancements to Sublime Text sidebar. Files and folders.
 
 https://packagecontrol.io/packages/SideBarEnhancements
+
+
+###ColorPicker###
+A multi-platform color picker plugin.
+
+http://weslly.github.io/ColorPicker/
