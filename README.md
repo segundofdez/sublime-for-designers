@@ -51,177 +51,305 @@ Licensed under [CC by-nc-nd][license].
 [license]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ###Editing###
-
-```cmd
-⌘ + X
-```
-Cut line
-
-####⌘ + ↩ ####
-Insert line after
-
-####⌘ + ⇧ + ↩####
-Insert line before
-
-####⌘+ctrl+↑####
-Move line/selection up
-
-####⌘+ctrl+↓####
-Move line/selection dow
-
-####⌘ + L####
-Select line - Repeat to select next lines
-
-####⌘+D####
-Select word - Repeat select others occurrences
-
-####ctrl + ⌘ + G####
-Select all occurrences of current selection
-
-####ctrl + M####
-Jump to closing parentheses Repeat to jump to opening parentheses
-
-####⌘ + Left####
-Move to beginning of line
-
-####⌘ + Right####
-Move to end of line
-
-####⌘ + K####
-Delete from cursor to end of line
-
-####⌘ + K + ⌫####
-Delete from cursor to start of line
-
-####⌘ + ]####
-Indent current line(s)
-
-####⌘ + [####
-Un-indent current line(s)
-
-####⌘ + ⇧ + D####
-Duplicate line(s)
-
-####⌘ + J####
-Join line below to the end of the current line
-
-####⌘ + /####
-Comment/un-comment current line
-
-####⌘ + ⌥ + /####
-Block comment current selection
-
-####⌘ + Y####
-Redo, or repeat last keyboard shortcut command
-
-####ctrl + Space####
-Select next auto-complete suggestion
-
-####ctrl + ⇧ + W####
-Wrap Selection in html tag
-
-####ctrl + ⇧ + K####
-Delete current line of cursor
-
+<table>
+    <tr>
+        <th>Keypress</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>⌘ + X</td>
+        <td>Cut line</td>
+    </tr>
+	<tr>
+		<td>⌘ + ↩ </td>
+		<td>Insert line after</td>
+	</tr>
+	<tr>
+		<td>⌘ + ⇧ + ↩</td>
+		<td>Insert line before</td>
+	</tr>
+	<tr>
+		<td>⌘+ctrl+↑</td>
+		<td>Move line/selection up</td>
+	</tr>
+	<tr>
+		<td>⌘+ctrl+↓</td>
+		<td>Move line/selection dow</td>
+	</tr>
+	<tr>
+		<td>⌘ + L</td>
+		<td>Select line - Repeat to select next lines</td>
+	</tr>
+	<tr>
+		<td>⌘+D</td>
+		<td>Select word - Repeat select others occurrences</td>
+	</tr>
+	<tr>
+		<td>ctrl + ⌘ + G</td>
+		<td>Select all occurrences of current selection</td>
+	</tr>
+	<tr>
+		<td>ctrl + M</td>
+		<td>Jump to closing parentheses Repeat to jump to opening parentheses</td>
+	</tr>
+	<tr>
+		<td>⌘ + Left</td>
+		<td>Move to beginning of line</td>
+	</tr>
+	<tr>
+		<td>⌘ + Right</td>
+		<td>Move to end of line</td>
+	</tr>
+	<tr>
+		<td>⌘ + K</td>
+		<td>Delete from cursor to end of line</td>
+	</tr>
+	<tr>
+		<td>⌘ + K + ⌫</td>
+		<td>Delete from cursor to start of line</td>
+	</tr>
+	<tr>
+		<td>⌘ + ]</td>
+		<td>Indent current line(s)</td>
+	</tr>
+	<tr>
+		<td>⌘ + [</td>
+		<td>Un-indent current line(s)</td>
+	</tr>
+	<tr>
+		<td>⌘ + ⇧ + D</td>
+		<td>Duplicate line(s)</td>
+	</tr>
+	<tr>
+		<td>⌘ + J</td>
+		<td>Join line below to the end of the current line</td>
+	</tr>
+	<tr>
+		<td>⌘ + /</td>
+		<td>Comment/un-comment current line</td>
+	</tr>
+	<tr>
+		<td>⌘ + ⌥ + /</td>
+		<td>Block comment current selection</td>
+	</tr>
+	<tr>
+		<td>⌘ + Y</td>
+		<td>Redo, or repeat last keyboard shortcut command</td>
+	</tr>
+	<tr>
+		<td>ctrl + Space</td>
+		<td>Select next auto-complete suggestion</td>
+	</tr>
+	<tr>
+		<td>ctrl + ⇧ + W</td>
+		<td>Wrap Selection in html tag</td>
+	</tr>
+	<tr>
+		<td>ctrl + ⇧ + K</td>
+		<td>Delete current line of cursor</td>
+	</tr>
+</table>
 
 ###Navigation/Goto Anywhere###
-####⌘ + P or ⌘ + T####
-Quick-open files by name
+<table>
+    <tr>
+        <th>Keypress</th>
+        <th>Description</th>
+    </tr>
+	<tr>
+		<td>⌘ + P or ⌘ + T</td>
+		<td>Quick-open files by name</td>
+	</tr>
 
-####⌘ + R####
-Goto symbol / Goto word in current file
+	<tr>
+		<td>⌘ + R</td>
+		<td>Goto symbol / Goto word in current file</td>
+	</tr>
 
-####ctrl + G####
-Goto line in current file
-
+	<tr>
+		<td>ctrl + G</td>
+		<td>Goto line in current file</td>
+	</tr>
+</table>
 
 ###General###
-####⌘ + ⇧ + P####
-Command Palette
+<table>
+    <tr>
+        <th>Keypress</th>
+        <th>Description</th>
+    </tr>
+	<tr>
+		<td>⌘ + ⇧ + P</td>
+		<td>Command Palette</td>
+	</tr>
 
-####ctrl + ⌘ + F####
-Toggle fullscreen mode
+	<tr>
+		<td>ctrl + ⌘ + F</td>
+		<td>Toggle fullscreen mode</td>
+	</tr>
 
-####ctrl + ⇧ + ⌘ + F####
-Toggle distraction-free mode
+	<tr>
+		<td>ctrl + ⇧ + ⌘ + F</td>
+		<td>Toggle distraction-free mode</td>
+	</tr>
 
-####⌘ + K, ⌘ + B####
-Toggle side bar
+	<tr>
+		<td>⌘ + K, ⌘ + B</td>
+		<td>Toggle side bar</td>
+	</tr>
 
-####ctrl + ⇧ + P####
-Show scope in status bar
+	<tr>
+		<td>ctrl + ⇧ + P</td>
+		<td>Show scope in status bar</td>
+	</tr>
+</table>
 
 ###Find/Replace###
-####⌘ + F####
-Find
+<table>
+    <tr>
+        <th>Keypress</th>
+        <th>Description</th>
+    </tr>
+	<tr>
+		<td>⌘ + F</td>
+		<td>Find</td>
+	</tr>
 
-####⌘ + ⌥ + F####
-Replace
+	<tr>
+		<td>⌘ + ⌥ + F</td>
+		<td>Replace</td>
+	</tr>
 
-####⌘ + ⇧ + F####
-Find in files
+	<tr>
+		<td>⌘ + ⇧ + F</td>
+		<td>Find in files</td>
+	</tr>
+</table>
 
 ###Scrolling###
-####ctrl + V####
-Scroll down one page
+<table>
+    <tr>
+        <th>Keypress</th>
+        <th>Description</th>
+    </tr>
+	<tr>
+		<td>ctrl + V</td>
+		<td>Scroll down one page</td>
+	</tr>
 
-####ctrl + L####
-Center current line vertically in page
+	<tr>
+		<td>ctrl + L</td>
+		<td>Center current line vertically in page</td>
+	</tr>
 
-####⌘ + Down####
-Scroll to end of file
+	<tr>
+		<td>⌘ + Down</td>
+		<td>Scroll to end of file</td>
+	</tr>
 
-####⌘ + Up####
-Scroll to start of file
+	<tr>
+		<td>⌘ + Up</td>
+		<td>Scroll to start of file</td>
+	</tr>
+</table>
+
 ###Tabs###
-####⌘ + ⇧ + t####
-Open last closed tab
+<table>
+    <tr>
+        <th>Keypress</th>
+        <th>Description</th>
+    </tr>
+	<tr>
+		<td>⌘ + ⇧ + t</td>
+		<td>Open last closed tab</td>
+	</tr>
 
-####⌘ + [NUM]####
-Jump to tab in current group where num is 1-9
+	<tr>
+		<td>⌘ + [NUM]</td>
+		<td>Jump to tab in current group where num is 1-9</td>
+	</tr>
 
-####⌘ + 0####
-Jump to 10th tab in current group
+	<tr>
+		<td>⌘ + 0</td>
+		<td>Jump to 10th tab in current group</td>
+	</tr>
 
-####⌘ + ⇧ + [####
-Cycle left through tabs
+	<tr>
+		<td>⌘ + ⇧ + [</td>
+		<td>Cycle left through tabs</td>
+	</tr>
 
-####⌘ + ⇧ + ]####
-Cycle right through tabs
+	<tr>
+		<td>⌘ + ⇧ + ]</td>
+		<td>Cycle right through tabs</td>
+	</tr>
 
-####ctrl + Tab####
-Cycle up through recent tabs
-
+	<tr>
+		<td>ctrl + Tab</td>
+		<td>Cycle up through recent tabs</td>
+	</tr>
+</table>
 
 ###Split window###
-####⌘ + ⌥ + 1####
-Revert view to single column
+<table>
+    <tr>
+        <th>Keypress</th>
+        <th>Description</th>
+    </tr>
+	<tr>
+		<td>⌘ + ⌥ + 1</td>
+		<td>Revert view to single column</td>
+	</tr>
 
-####⌘ + ⌥ + 2####
-Split view into two columns
+	<tr>
+		<td>⌘ + ⌥ + 2</td>
+		<td>Split view into two columns</td>
+	</tr>
 
-####⌘ + ⌥ + 3####
-Split view into three columns
+	<tr>
+		<td>⌘ + ⌥ + 3</td>
+		<td>Split view into three columns</td>
+	</tr>
 
-####⌘ + ⌥ + 4####
-Split view into four columns
+	<tr>
+		<td>⌘ + ⌥ + 4</td>
+		<td>Split view into four columns</td>
+	</tr>
 
-####⌘ + ⌥ + 5####
-Set view to grid (4 groups)
+	<tr>
+		<td>⌘ + ⌥ + 5</td>
+		<td>Set view to grid (4 groups)</td>
+	</tr>
 
-####ctrl + [NUM]####
-Jump to group where num is 1-4
+	<tr>
+		<td>ctrl + [NUM]</td>
+		<td>Jump to group where num is 1-4</td>
+	</tr>
 
-####ctrl + ⇧ + [NUM]####
-Move file to specified group where num is 1-4
-
+	<tr>
+		<td>ctrl + ⇧ + [NUM]</td>
+		<td>Move file to specified group where num is 1-4</td>
+	</tr>
+</table>
 
 ###Text manipulation###
-####⌘ + K, ⌘ + U####
-Transform to Uppercase
+<table>
+    <tr>
+        <th>Keypress</th>
+        <th>Description</th>
+    </tr>
+	<tr>
+		<td>⌘ + K, ⌘ + U</td>
+		<td>Transform to Uppercase</td>
+	</tr>
 
-####⌘ + K, ⌘ + L####
-Transform to Lowercase
+	<tr>
+		<td>⌘ + K, ⌘ + L</td>
+		<td>Transform to Lowercase</td>
+	</tr>
 
-####⌘ + ctrl + up, ⌘ + ctrl + down####
-clip text upwards / downwards
+	<tr>
+		<td>⌘ + ctrl + up, ⌘ + ctrl + down</td>
+		<td>clip text upwards / downwards</td>
+	</tr>
+</table>
