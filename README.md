@@ -9,22 +9,27 @@ More info: https://www.sublimetext.com/
 
 ## Useful packages
 
-**Package Control**
+###Package Control###
 Install and keep packages up-to-date.
+
 https://packagecontrol.io/
 
-**EditorConfig**
+###EditorConfig###
 Helps developers maintain consistent coding styles between different editors - Sublime Text plugin.
+
 https://packagecontrol.io/packages/EditorConfigv
 
-**TrailingSpaces**
+###TrailingSpaces###
 Highlight trailing spaces and delete them in a flash.
+
 https://packagecontrol.io/packages/TrailingSpaces
 
-**Emmet**
+###Emmet###
 The essential toolkit for web-developers.
+
 http://emmet.io/
 
-**SideBarEnhancements**
-Enhancements to Sublime Text sidebar. Files and folders..
+###SideBarEnhancements###
+Enhancements to Sublime Text sidebar. Files and folders.
+
 https://packagecontrol.io/packages/SideBarEnhancements
