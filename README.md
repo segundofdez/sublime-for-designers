@@ -52,7 +52,7 @@ Licensed under [CC by-nc-nd][license].
 
 ###Editing###
 
-####⌘ + X####
+'''⌘ + X'''
 Cut line
 
 ####⌘ + ↩ ####
