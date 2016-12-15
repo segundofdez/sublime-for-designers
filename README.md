@@ -1,5 +1,5 @@
 # Sublime for designers
-Useful Sublime Text packages for web designers.
+Useful Sublime Text packages and keyboard shortcuts for web designers.
 
 ## About Sublime Text
 As they say in the web site Sublime Text is a sophisticated text editor for code, markup and prose.
@@ -43,3 +43,34 @@ http://weslly.github.io/ColorPicker/
 ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors.
 
 https://packagecontrol.io/packages/Color%20Highlighter
+
+## Keyboard Shortcuts
+This shortcuts it based on Guillermo López-Anglada and FichteFoll work https://github.com/guillermooo/sublime-undocs http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html
+Licensed under [CC by-nc-nd][license].
+
+[license]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+
+###Editing###
+
+####⌘ + X####
+Cut line
+
+####⌘ + ↩ ####
+Insert line after
+
+####⌘ + ⇧ + ↩####
+Insert line before
+
+####⌘+ctrl+↑####
+Move line/selection up
+
+####⌘+ctrl+↓####
+Move line/selection dow
+
+####⌘ + L####
+Select line - Repeat to select next lines
+
+####⌘+D####
+Select word - Repeat select others occurrences
+
+
