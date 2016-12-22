@@ -17,7 +17,7 @@ https://packagecontrol.io/
 ###EditorConfig###
 Helps developers maintain consistent coding styles between different editors - Sublime Text plugin.
 
-https://packagecontrol.io/packages/EditorConfigv
+https://packagecontrol.io/packages/EditorConfig
 
 ###TrailingSpaces###
 Highlight trailing spaces and delete them in a flash.
