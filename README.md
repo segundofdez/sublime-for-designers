@@ -324,7 +324,6 @@ Licensed under [CC by-nc-nd][license].
 		<td>⌘ + K, ⌘ + L</td>
 		<td>Transform to Lowercase</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + ctrl + up, ⌘ + ctrl + down</td>
 		<td>clip text upwards / downwards</td>
