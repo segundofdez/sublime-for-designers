@@ -9,37 +9,37 @@ More info: https://www.sublimetext.com/
 
 ## Useful packages
 
-###Package Control###
+### Package Control
 Install and keep packages up-to-date.
 
 https://packagecontrol.io/
 
-###EditorConfig###
+### EditorConfig
 Helps developers maintain consistent coding styles between different editors - Sublime Text plugin.
 
 https://packagecontrol.io/packages/EditorConfig
 
-###TrailingSpaces###
+### TrailingSpaces
 Highlight trailing spaces and delete them in a flash.
 
 https://packagecontrol.io/packages/TrailingSpaces
 
-###Emmet###
+### Emmet
 The essential toolkit for web-developers.
 
 http://emmet.io/
 
-###SideBarEnhancements###
+###SideBarEnhancements
 Enhancements to Sublime Text sidebar. Files and folders.
 
 https://packagecontrol.io/packages/SideBarEnhancements
 
-###ColorPicker###
+### ColorPicker
 A multi-platform color picker plugin.
 
 http://weslly.github.io/ColorPicker/
 
-###Color Highlighter###
+###Color Highlighter
 ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors.
 
 https://packagecontrol.io/packages/Color%20Highlighter
@@ -50,7 +50,7 @@ Licensed under [CC by-nc-nd][license].
 
 [license]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 
-###Editing###
+### Editing
 <table>
     <tr>
         <th>Keypress</th>
@@ -150,7 +150,7 @@ Licensed under [CC by-nc-nd][license].
 	</tr>
 </table>
 
-###Navigation/Goto Anywhere###
+### Navigation/Goto Anywhere
 <table>
     <tr>
         <th>Keypress</th>
@@ -160,19 +160,17 @@ Licensed under [CC by-nc-nd][license].
 		<td>⌘ + P or ⌘ + T</td>
 		<td>Quick-open files by name</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + R</td>
 		<td>Goto symbol / Goto word in current file</td>
 	</tr>
-
 	<tr>
 		<td>ctrl + G</td>
 		<td>Goto line in current file</td>
 	</tr>
 </table>
 
-###General###
+### General
 <table>
     <tr>
         <th>Keypress</th>
@@ -182,29 +180,25 @@ Licensed under [CC by-nc-nd][license].
 		<td>⌘ + ⇧ + P</td>
 		<td>Command Palette</td>
 	</tr>
-
 	<tr>
 		<td>ctrl + ⌘ + F</td>
 		<td>Toggle fullscreen mode</td>
 	</tr>
-
 	<tr>
 		<td>ctrl + ⇧ + ⌘ + F</td>
 		<td>Toggle distraction-free mode</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + K, ⌘ + B</td>
 		<td>Toggle side bar</td>
 	</tr>
-
 	<tr>
 		<td>ctrl + ⇧ + P</td>
 		<td>Show scope in status bar</td>
 	</tr>
 </table>
 
-###Find/Replace###
+### Find/Replace
 <table>
     <tr>
         <th>Keypress</th>
@@ -214,19 +208,17 @@ Licensed under [CC by-nc-nd][license].
 		<td>⌘ + F</td>
 		<td>Find</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + ⌥ + F</td>
 		<td>Replace</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + ⇧ + F</td>
 		<td>Find in files</td>
 	</tr>
 </table>
 
-###Scrolling###
+### Scrolling
 <table>
     <tr>
         <th>Keypress</th>
@@ -236,24 +228,21 @@ Licensed under [CC by-nc-nd][license].
 		<td>ctrl + V</td>
 		<td>Scroll down one page</td>
 	</tr>
-
 	<tr>
 		<td>ctrl + L</td>
 		<td>Center current line vertically in page</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + Down</td>
 		<td>Scroll to end of file</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + Up</td>
 		<td>Scroll to start of file</td>
 	</tr>
 </table>
 
-###Tabs###
+### Tabs
 <table>
     <tr>
         <th>Keypress</th>
@@ -263,34 +252,29 @@ Licensed under [CC by-nc-nd][license].
 		<td>⌘ + ⇧ + t</td>
 		<td>Open last closed tab</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + [NUM]</td>
 		<td>Jump to tab in current group where num is 1-9</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + 0</td>
 		<td>Jump to 10th tab in current group</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + ⇧ + [</td>
 		<td>Cycle left through tabs</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + ⇧ + ]</td>
 		<td>Cycle right through tabs</td>
 	</tr>
-
 	<tr>
 		<td>ctrl + Tab</td>
 		<td>Cycle up through recent tabs</td>
 	</tr>
 </table>
 
-###Split window###
+### Split window
 <table>
     <tr>
         <th>Keypress</th>
@@ -300,39 +284,33 @@ Licensed under [CC by-nc-nd][license].
 		<td>⌘ + ⌥ + 1</td>
 		<td>Revert view to single column</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + ⌥ + 2</td>
 		<td>Split view into two columns</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + ⌥ + 3</td>
 		<td>Split view into three columns</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + ⌥ + 4</td>
 		<td>Split view into four columns</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + ⌥ + 5</td>
 		<td>Set view to grid (4 groups)</td>
 	</tr>
-
 	<tr>
 		<td>ctrl + [NUM]</td>
 		<td>Jump to group where num is 1-4</td>
 	</tr>
-
 	<tr>
 		<td>ctrl + ⇧ + [NUM]</td>
 		<td>Move file to specified group where num is 1-4</td>
 	</tr>
 </table>
 
-###Text manipulation###
+### Text manipulation
 <table>
     <tr>
         <th>Keypress</th>
@@ -342,7 +320,6 @@ Licensed under [CC by-nc-nd][license].
 		<td>⌘ + K, ⌘ + U</td>
 		<td>Transform to Uppercase</td>
 	</tr>
-
 	<tr>
 		<td>⌘ + K, ⌘ + L</td>
 		<td>Transform to Lowercase</td>
