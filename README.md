@@ -29,7 +29,7 @@ The essential toolkit for web-developers.
 
 http://emmet.io/
 
-###SideBarEnhancements
+### SideBarEnhancements
 Enhancements to Sublime Text sidebar. Files and folders.
 
 https://packagecontrol.io/packages/SideBarEnhancements
@@ -39,7 +39,7 @@ A multi-platform color picker plugin.
 
 http://weslly.github.io/ColorPicker/
 
-###Color Highlighter
+### Color Highlighter
 ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors.
 
 https://packagecontrol.io/packages/Color%20Highlighter
